@@ -1,0 +1,45 @@
+[2025-11-05 11:43:27] INFO: Membuat baseline untuk folder "./secure_files/"...
+[2025-11-05 11:43:27] INFO: Baseline hash baru telah dibuat dan disimpan di hash_db.json.
+[2025-11-05 11:43:49] INFO: --- Memulai Pengecekan Integritas File ---
+[2025-11-05 11:43:49] INFO: File "acin.txt" terverifikasi OK.
+[2025-11-05 11:43:49] INFO: --- Pengecekan Selesai ---
+[2025-11-05 11:44:04] INFO: --- Memulai Pengecekan Integritas File ---
+[2025-11-05 11:44:04] WARNING: Integritas file "acin.txt" GAGAL! Hash tidak cocok.
+[2025-11-05 11:44:04] INFO: --- Pengecekan Selesai ---
+[2025-11-05 11:44:22] INFO: --- Memulai Pengecekan Integritas File ---
+[2025-11-05 11:44:22] INFO: File "acin.txt" terverifikasi OK.
+[2025-11-05 11:44:22] INFO: --- Pengecekan Selesai ---
+[2025-11-05 11:44:45] INFO: --- Memulai Pengecekan Integritas File ---
+[2025-11-05 11:44:45] INFO: File "acin.txt" terverifikasi OK.
+[2025-11-05 11:44:45] CRITICAL: ALERT: Ditemukan file baru yang tidak dikenal: "inipenyusup.txt".
+[2025-11-05 11:44:45] INFO: --- Pengecekan Selesai ---
+[2025-11-05 11:45:16] INFO: --- Memulai Pengecekan Integritas File ---
+[2025-11-05 11:45:16] INFO: File "acin.txt" terverifikasi OK.
+[2025-11-05 11:45:16] INFO: --- Pengecekan Selesai ---
+[2025-11-05 20:58:10] INFO: --- Memulai Pengecekan Integritas File ---
+[2025-11-05 20:58:10] INFO: File "acin.txt" terverifikasi OK.
+[2025-11-05 20:58:10] INFO: --- Pengecekan Selesai ---
+[2025-11-05 20:59:10] INFO: --- Memulai Pengecekan Integritas File ---
+[2025-11-05 20:59:10] INFO: File "acin.txt" terverifikasi OK.
+[2025-11-05 20:59:10] CRITICAL: ALERT: Ditemukan file baru yang tidak dikenal: "hehe.txt".
+[2025-11-05 20:59:10] INFO: --- Pengecekan Selesai ---
+[2025-11-05 21:00:10] INFO: --- Memulai Pengecekan Integritas File ---
+[2025-11-05 21:00:10] INFO: File "acin.txt" terverifikasi OK.
+[2025-11-05 21:00:10] CRITICAL: ALERT: Ditemukan file baru yang tidak dikenal: "hehe.txt".
+[2025-11-05 21:00:10] INFO: --- Pengecekan Selesai ---
+[2025-11-05 21:01:10] INFO: --- Memulai Pengecekan Integritas File ---
+[2025-11-05 21:01:10] INFO: File "acin.txt" terverifikasi OK.
+[2025-11-05 21:01:10] CRITICAL: ALERT: Ditemukan file baru yang tidak dikenal: "hehe.txt".
+[2025-11-05 21:01:10] INFO: --- Pengecekan Selesai ---
+[2025-11-05 21:02:10] INFO: --- Memulai Pengecekan Integritas File ---
+[2025-11-05 21:02:10] INFO: File "acin.txt" terverifikasi OK.
+[2025-11-05 21:02:10] CRITICAL: ALERT: Ditemukan file baru yang tidak dikenal: "hehe.txt".
+[2025-11-05 21:02:10] INFO: --- Pengecekan Selesai ---
+[2025-11-05 21:03:10] INFO: --- Memulai Pengecekan Integritas File ---
+[2025-11-05 21:03:10] INFO: File "acin.txt" terverifikasi OK.
+[2025-11-05 21:03:10] CRITICAL: ALERT: Ditemukan file baru yang tidak dikenal: "hehe.txt".
+[2025-11-05 21:03:10] INFO: --- Pengecekan Selesai ---
+[2025-11-05 21:04:10] INFO: --- Memulai Pengecekan Integritas File ---
+[2025-11-05 21:04:10] INFO: File "acin.txt" terverifikasi OK.
+[2025-11-05 21:04:10] CRITICAL: ALERT: Ditemukan file baru yang tidak dikenal: "hehe.txt".
+[2025-11-05 21:04:10] INFO: --- Pengecekan Selesai ---
