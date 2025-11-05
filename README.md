@@ -1,6 +1,18 @@
-*Simple File Integrity Monitor*
+**Simple File Integrity Monitor**
 
 Sebuah sistem sederhana berbasis Python untuk memantau integritas file dalam sebuah direktori. Sistem ini dapat mendeteksi file yang diubah, ditambahkan, atau dihapus, mencatat semua aktivitas, dan menyajikan laporan melalui dashboard web sederhana.
+
+**Anggota Kelompok**
+## 👥 Data Anggota
+
+| No | Nama         | NRP         |
+|----|-----------------------|--------------|
+| 1  | Riskiyatul nur Oktarani    | 5027231013   |
+| 2  | Dian Anggraeni Putri    | 5027231016   |
+| 3  | Acintya Edria Sudarsono     | 5027231020   |
+| 4  | Tsaldia Hukma Cita     | 5027231036   |
+| 5  | Callista Meyra Azizah     | 5027231060   |
+
 
 **Fitur Utama**
 
